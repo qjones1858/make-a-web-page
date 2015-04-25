@@ -1,0 +1,66 @@
+h1 {
+	color: white ;
+}
+
+body {
+  background-color: black   ;
+}
+h2 {
+  color: blue ;
+}
+  
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.lesson {
+    background-color: grey;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+h2 {
+    margin: 10px}
+h1 {
+	color: black ;
+}
+
+h2 {
+  color: blue ;
+}
+  
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.lesson {
+    background-color: grey;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+h2 {
+    margin: 10px}
+
+.concept {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black
+      
+.concept-description {
+    font-weight: lighter;
+    margin: 6px;
+
+.concept-title {
+    font-size: 30px;
+    margin: 8px;
+    text-align: center;
+    color: #294860;
+
+
+ 
+
+
+
